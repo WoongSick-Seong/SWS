@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("아아아아1");
 		System.out.println("qqqq1");
 		System.out.println("마스터가 했다1");
+		System.out.println("테스트에서 추가 했다");
 	}
 
 }
